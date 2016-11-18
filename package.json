@@ -1,5 +1,5 @@
 {
-  "name": "sample-shrinkwrap-error",
+  "name": "sample-shrinkwrap-error-include",
   "version": "2.19.3",
   "engines": {
     "node": "6.5.0"
